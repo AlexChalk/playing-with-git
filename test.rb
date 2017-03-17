@@ -1,2 +1,2 @@
-#Adding feature to testing branch.
+#Adding feature to master branch.
 #Another important feature!
